@@ -14,3 +14,4 @@ This directory contains executable script files that carry out similar commands 
 12. 11-lists: Print contents of current directory, parent of current directory and /boot/ directory.
 13. 12-file_type: Prints the type of file named "iamafile" in the /tmp/ directory.
 14. 13-symbolic_link: Creates a symbolic link to /bin/ls named "__ls__".
+15. 14-copy_html: Copies HTML files from working directory into parent directory.
