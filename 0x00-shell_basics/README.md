@@ -11,3 +11,4 @@ This directory contains executable script files that carry out similar commands 
 9. 8-firstdelete: Deletes the file "betty" that is in /tmp/my_first_directory.
 10. 9-firstdirdeletion: Deletes the directory "my_first_directory" that is in the /tmp/ directory.
 11. 10-back: Changes the working directory to the previous one.
+12. 11-lists: Print contents of current directory, parent of current directory and /boot/ directory.
