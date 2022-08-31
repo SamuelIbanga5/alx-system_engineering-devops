@@ -10,3 +10,4 @@ This directory contains executable script files that carry out similar commands 
 8. 7-movethatfile: Moves the file "betty" from /tmp/ directory to /tmp/my_first_directory.
 9. 8-firstdelete: Deletes the file "betty" that is in /tmp/my_first_directory.
 10. 9-firstdirdeletion: Deletes the directory "my_first_directory" that is in the /tmp/ directory.
+11. 10-back: Changes the working directory to the previous one.
