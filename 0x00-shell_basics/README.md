@@ -6,3 +6,4 @@ This directory contains executable script files that carry out similar commands 
 4. 3-listfiles: Displays current directory contents in a long format.
 5. 4-listmorefiles: Display current directory contents including hidden files starting with ".".
 6. 5-listfilesdigitonly: Display current directory contents in long format, hidden files and UID displayed numerically.
+7. 6-firstdirectory: Creates a directory named "my_first_directory" in the "/tmp/" directory.
