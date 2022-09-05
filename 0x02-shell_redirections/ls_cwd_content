@@ -1,0 +1,14 @@
+total 48
+drwxrwxr-x 2 ibangajnr ibangajnr 4096 Sep  5 16:39 .
+drwxrwxr-x 6 ibangajnr ibangajnr 4096 Sep  5 11:22 ..
+-rwxrw-r-- 1 ibangajnr ibangajnr   32 Sep  5 11:40 0-hello_world
+-rwxrw-r-- 1 ibangajnr ibangajnr   28 Sep  5 12:19 1-confused_smiley
+-rwxrw-r-- 1 ibangajnr ibangajnr   28 Sep  5 12:31 2-hellofile
+-rwxrw-r-- 1 ibangajnr ibangajnr   39 Sep  5 12:33 3-twofiles
+-rwxrw-r-- 1 ibangajnr ibangajnr   35 Sep  5 12:58 4-lastlines
+-rwxrw-r-- 1 ibangajnr ibangajnr   35 Sep  5 12:59 5-firstlines
+-rwxrw-r-- 1 ibangajnr ibangajnr   46 Sep  5 13:04 6-third_line
+-rwxrw-r-- 1 ibangajnr ibangajnr   78 Sep  5 16:31 7-file
+-rwxrw-r-- 1 ibangajnr ibangajnr   36 Sep  5 16:39 8-cwd_state
+-rw-rw-r-- 1 ibangajnr ibangajnr    0 Sep  5 16:39 ls_cwd_content
+-rw-rw-r-- 1 ibangajnr ibangajnr   67 Sep  5 11:41 README.md
