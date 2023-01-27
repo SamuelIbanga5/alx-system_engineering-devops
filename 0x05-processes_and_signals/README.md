@@ -12,4 +12,6 @@ In this project, I learned about handling process ID's and signals in Bash with 
 3. Show your Bash PID made easy
 	- [3-show_your_bash_pid_made_easy](https://github.com/SamuelIbanga5/alx-system_engineering-devops/blob/master/0x05-processes_and_signals/3-show_your_bash_pid_made_easy): Bash script that displays the PID, along with the process name, of processes whose name contain the word `bash`.
 4. To infinity and beyond
-	- [4-to_infinity_and_beyond](): Bash script that displays `To infinity and beyond` indefinitely.
+	- [4-to_infinity_and_beyond](https://github.com/SamuelIbanga5/alx-system_engineering-devops/blob/master/0x05-processes_and_signals/4-to_infinity_and_beyond): Bash script that displays `To infinity and beyond` indefinitely.
+5. Don't stop me now!
+	- [5-dont_stop_me_now](): Bash script that stops `4-to_infinity_and_beyond` process.
