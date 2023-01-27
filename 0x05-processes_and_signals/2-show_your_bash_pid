@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Displays lines containing the bash word, thus allowing your to easily get the PIID of your Bash process.
+# shellcheck disable=SC2009
+ps -aux | grep bash
