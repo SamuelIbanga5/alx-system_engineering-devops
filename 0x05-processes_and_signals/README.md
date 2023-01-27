@@ -25,3 +25,5 @@ In this project, I learned about handling process ID's and signals in Bash with 
 	- [100-process_and_pid_file](https://github.com/SamuelIbanga5/alx-system_engineering-devops/blob/master/0x05-processes_and_signals/100-process_and_pid_file): Bash script that creates the file `/var/run/myscript.pid` containing its PID, displays `To infinity and beyond` indefinitely, displays `I hate the kill command` when receiving a SIGTERM signal, displays `Y U no love me?!` when receiving a SIGINT signal and deletes the file `/var/run/myscript.pid` and terminates itself when receiving a SIGQUIT or SIGTERM signal.
 10. Manage my process
 	- [101-manage_my_process](https://github.com/SamuelIbanga5/alx-system_engineering-devops/blob/master/0x05-processes_and_signals/101-manage_my_process): Bash script that indefinitely writes `Iam alive!` to the file `/tmp/my_process` and in between every `I am alive!` message, the program should pause for 2 seconds.
+11. Zombie
+	- [102-zombie.c](https://github.com/SamuelIbanga5/alx-system_engineering-devops/blob/master/0x05-processes_and_signals/102-zombie.c): C program that creates  5 zombie processes.
