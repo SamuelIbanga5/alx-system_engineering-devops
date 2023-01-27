@@ -18,6 +18,8 @@ In this project, I learned about handling process ID's and signals in Bash with 
 6. Stop me if you can
 	- [6-stop_me_if_you_can](https://github.com/SamuelIbanga5/alx-system_engineering-devops/blob/master/0x05-processes_and_signals/6-stop_me_if_you_can): Bash script that stops `4-to_infinity_and_beyond` process.
 7. Highlander
-	- [7-highlander](): Bash script that displays: `To infinity and beyond` indefinitely with a `sleep 2` in between each iteration and `I am invincible!!!` wen receiving a `SIGTERM` signal.
+	- [7-highlander](https://github.com/SamuelIbanga5/alx-system_engineering-devops/blob/master/0x05-processes_and_signals/7-highlander): Bash script that displays: `To infinity and beyond` indefinitely with a `sleep 2` in between each iteration and `I am invincible!!!` wen receiving a `SIGTERM` signal.
+8. Beheaded process
+	- [8-beheaded_process](): Bash script that kills the process `7-highlander`.
 
 
