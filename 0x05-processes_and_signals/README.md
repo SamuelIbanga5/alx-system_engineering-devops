@@ -27,3 +27,8 @@ In this project, I learned about handling process ID's and signals in Bash with 
 	- [101-manage_my_process](https://github.com/SamuelIbanga5/alx-system_engineering-devops/blob/master/0x05-processes_and_signals/101-manage_my_process): Bash script that indefinitely writes `Iam alive!` to the file `/tmp/my_process` and in between every `I am alive!` message, the program should pause for 2 seconds.
 11. Zombie
 	- [102-zombie.c](https://github.com/SamuelIbanga5/alx-system_engineering-devops/blob/master/0x05-processes_and_signals/102-zombie.c): C program that creates  5 zombie processes.
+
+## Environment
+- Language: Bash Scripts, C
+- OS: Kali Linux (Debian 64-bits)
+- Execution: `chmod +x [filename]`; run with `./filename`
