@@ -4,9 +4,8 @@
 count=0
 while ((count<10));
 do
-	if [ $count -eq 8 ];
+	if [ $count -eq 9 ];
 	then
-		echo "Best School"
 		echo "Hi"
 	fi
 	echo "Best School"
