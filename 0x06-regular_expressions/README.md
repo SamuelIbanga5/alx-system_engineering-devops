@@ -19,4 +19,6 @@ For this project, we are tasked to build our regular expression using Oniguruma,
 5. Not quite HBTN yet
 	- [5-beginning_and_end.rb](https://github.com/SamuelIbanga5/alx-system_engineering-devops/blob/master/0x06-regular_expressions/5-beginning_and_end.rb): Ruby script that matches a string that starts with `h` and ends with `n` and can have any single character between.
 6. Call me maybe
-	- [6-phone_number.rb](): Ruby script that must match a 10 digit phone number.
+	- [6-phone_number.rb](https://github.com/SamuelIbanga5/alx-system_engineering-devops/blob/master/0x06-regular_expressions/6-phone_number.rb): Ruby script that must match a 10 digit phone number.
+7. OMG Why are you shouting
+	- [7-OMG_WHY_ARE_YOU_SHOUTING.rb](): Ruby script that only matches capital letters.
