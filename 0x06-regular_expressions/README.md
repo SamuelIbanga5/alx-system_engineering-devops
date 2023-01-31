@@ -13,4 +13,6 @@ For this project, we are tasked to build our regular expression using Oniguruma,
 2. Repetition Token #1
 	- [2-repetition_token_1.rb](https://github.com/SamuelIbanga5/alx-system_engineering-devops/blob/master/0x06-regular_expressions/2-repetition_token_1.rb): Ruby script that accepts one argument and pass it to a regular expression matching method.
 3. Repetition Token #2
-	- [3-repetition_token_2.rb](): Ruby script that accepts one argument and pass it to a regular epxression matching method.
+	- [3-repetition_token_2.rb](https://github.com/SamuelIbanga5/alx-system_engineering-devops/blob/master/0x06-regular_expressions/3-repetition_token_2.rb): Ruby script that accepts one argument and pass it to a regular epxression matching method.
+4. Repetition Token #3
+	- [4-repetition_token_3.rb](): Ruby script that accepts one argument and pass it to a regular expression matching method
