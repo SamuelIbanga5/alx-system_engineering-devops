@@ -17,4 +17,6 @@ For this project, we are tasked to build our regular expression using Oniguruma,
 4. Repetition Token #3
 	- [4-repetition_token_3.rb](https://github.com/SamuelIbanga5/alx-system_engineering-devops/blob/master/0x06-regular_expressions/4-repetition_token_3.rb): Ruby script that accepts one argument and pass it to a regular expression matching method.
 5. Not quite HBTN yet
-	- [5-beginning_and_end.rb](): Ruby script that matches a string that starts with `h` and ends with `n` and can have any single character between.
+	- [5-beginning_and_end.rb](https://github.com/SamuelIbanga5/alx-system_engineering-devops/blob/master/0x06-regular_expressions/5-beginning_and_end.rb): Ruby script that matches a string that starts with `h` and ends with `n` and can have any single character between.
+6. Call me maybe
+	- [6-phone_number.rb](): Ruby script that must match a 10 digit phone number.
