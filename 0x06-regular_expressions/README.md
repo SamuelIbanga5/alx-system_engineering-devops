@@ -21,4 +21,6 @@ For this project, we are tasked to build our regular expression using Oniguruma,
 6. Call me maybe
 	- [6-phone_number.rb](https://github.com/SamuelIbanga5/alx-system_engineering-devops/blob/master/0x06-regular_expressions/6-phone_number.rb): Ruby script that must match a 10 digit phone number.
 7. OMG Why are you shouting
-	- [7-OMG_WHY_ARE_YOU_SHOUTING.rb](): Ruby script that only matches capital letters.
+	- [7-OMG_WHY_ARE_YOU_SHOUTING.rb](https://github.com/SamuelIbanga5/alx-system_engineering-devops/blob/master/0x06-regular_expressions/7-OMG_WHY_ARE_YOU_SHOUTING.rb): Ruby script that only matches capital letters.
+8. Textme
+	- [100-textme.rb](): Ruby script that outputs `[SENDER]`, `[RECEIVER]`, `[FLAGS]`
