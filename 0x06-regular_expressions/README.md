@@ -9,4 +9,6 @@ For this project, we are tasked to build our regular expression using Oniguruma,
 0. Simply matching School
 	- [0-simply_match_school.rb](https://github.com/SamuelIbanga5/alx-system_engineering-devops/blob/master/0x06-regular_expressions/0-simply_match_school.rb): Ruby script that accepts one argument and pass it to a regular expression
 1. Repetition Token #0
-	- [1-repetition_token_0.rb](): Ruby script that accepts one argument and pass it to a regular expression matching method.
+	- [1-repetition_token_0.rb](https://github.com/SamuelIbanga5/alx-system_engineering-devops/blob/master/0x06-regular_expressions/1-repetition_token_0.rb): Ruby script that accepts one argument and pass it to a regular expression matching method.
+2. Repetition Token #1
+	- [2-repetition_token_1.rb](): Ruby script that accepts one argument and pass it to a regular expression matching method.
