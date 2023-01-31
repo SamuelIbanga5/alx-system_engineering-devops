@@ -23,4 +23,4 @@ For this project, we are tasked to build our regular expression using Oniguruma,
 7. OMG Why are you shouting
 	- [7-OMG_WHY_ARE_YOU_SHOUTING.rb](https://github.com/SamuelIbanga5/alx-system_engineering-devops/blob/master/0x06-regular_expressions/7-OMG_WHY_ARE_YOU_SHOUTING.rb): Ruby script that only matches capital letters.
 8. Textme
-	- [100-textme.rb](): Ruby script that outputs `[SENDER]`, `[RECEIVER]`, `[FLAGS]`
+	- [100-textme.rb](https://github.com/SamuelIbanga5/alx-system_engineering-devops/blob/master/0x06-regular_expressions/100-textme.rb): Ruby script that outputs `[SENDER]`, `[RECEIVER]`, `[FLAGS]`
