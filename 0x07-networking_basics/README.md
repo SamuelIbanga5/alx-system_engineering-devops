@@ -13,5 +13,7 @@ A network consists of two or more computers being linked either physically with 
 3. UDP and TCP
 	- [3-UDP_and_TCP](https://github.com/SamuelIbanga5/alx-system_engineering-devops/blob/master/0x07-networking_basics/3-UDP_and_TCP): User Datagram Protocol (UDP) is a protocol used by apps to deliver a faster stream of information by doing away with error-checking while Transmission Control Protocol (TCP) is a protocol that provides apps a way to deliver (and receive) an ordered and error-checked stream of information packets over the network.
 4. TCP and UDP ports
-	- [4-TCP_and_UDP_ports](): Bash script that displays listening ports showing only listening sockets and showing the PID and name of the program to which each socket belongs
+	- [4-TCP_and_UDP_ports](https://github.com/SamuelIbanga5/alx-system_engineering-devops/blob/master/0x07-networking_basics/4-TCP_and_UDP_ports): Bash script that displays listening ports showing only listening sockets and showing the PID and name of the program to which each socket belongs.
+5. Is the ost on the network
+	- [5-is_the_host_on_the_network](): Bash script that pings an IP address passed as an argument.
 
