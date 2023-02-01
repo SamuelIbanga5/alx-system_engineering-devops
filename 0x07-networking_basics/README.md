@@ -9,4 +9,6 @@ A network consists of two or more computers being linked either physically with 
 1. Type of Network
 	- [1-types_of_network](https://github.com/SamuelIbanga5/alx-system_engineering-devops/blob/master/0x07-networking_basics/1-types_of_network): There are about 7 different types of Network categorized by the scope or scale of the network.
 2. MAC and IP Address
-	- [2-MAC_and_IP_address](): Media Access Control (MAC) is known as the unique identifier of a Network Interface while an IP address is known as the unique identifier of a computer on the internet.
+	- [2-MAC_and_IP_address](https://github.com/SamuelIbanga5/alx-system_engineering-devops/blob/master/0x07-networking_basics/2-MAC_and_IP_address): Media Access Control (MAC) is known as the unique identifier of a Network Interface while an IP address is known as the unique identifier of a computer on the internet.
+3. UDP and TCP
+	- [3-UDP_and_TCP](): User Datagram Protocol (UDP) is a protocol used by apps to deliver a faster stream of information by doing away with error-checking while Transmission Control Protocol (TCP) is a protocol that provides apps a way to deliver (and receive) an ordered and error-checked stream of information packets over the network.
