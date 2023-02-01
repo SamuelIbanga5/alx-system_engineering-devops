@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Dsiplays ports showing only listening sockets and showing the PID and name of the program to which each socket belongs
+netstat -lp
