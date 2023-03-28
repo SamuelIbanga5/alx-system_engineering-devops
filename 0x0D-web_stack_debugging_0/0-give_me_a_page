@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# Running Apache image and returning page containing content Hello Holberton.
+
+sudo docker run -p 8080:80 -d -it httpd
+container_id=$(sudo docker ps -q)
+sudo docker exec -ti $container_id /bin/bash -c '
+echo "<html><body><h1>Hello Holberton</h1></body></html>" > htdocs/index.html
+exit
+'
