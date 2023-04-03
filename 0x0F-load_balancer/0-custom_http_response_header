@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Script that configrues Nginx so that its HTTP response contains a custom header on each servers.
+sudo sed -i 's/}/     add_header  X-Server-By $hostname;\n}/g' /etc/nginx/sites-available/default
+sudo service nginx restart
