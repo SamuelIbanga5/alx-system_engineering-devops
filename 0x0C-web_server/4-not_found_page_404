@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+# Script that automatically configures an Ubuntu machine that has a status:
+# 404 error code.
+
+sudo apt-get update
+sudo apt-get install -y nginx
+
+sudo mkdir /etc/nginx/html
+sudo touch /etc/nginx/html/index.html
+sudo echo "Hello World!" | tee /etc/nginx/html/index.html
+sudo touch /var/www/html/404.html
+sudo echo "Ceci n'est pas une page" > /var/www/html/404.html
+sudo printf %s "server {
+     listen	 80 default_server;
+     listen	 [::]:80 default_server;
+     root	 /etc/nginx/html;
+     index	 index.html index.htm;
+     location /redirect_me {
+          return 301 https://www.youtube.com/watch?v=QH2-TGUlwu4;
+     }
+     error_page 404 /404.html;
+     location /404.html {
+     	root /var/www/html;
+	internal;
+     }
+}
+" | tee /etc/nginx/sites-available/default
+
+sudo service nginx restart
