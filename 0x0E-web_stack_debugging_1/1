@@ -1,0 +1,4 @@
+rm: rm: cannot remove '/etc/nginx/sites-enabled/default'cannot remove '/etc/nginx/sites-enabled/default': Permission denied: Permission denied
+
+ln: failed to create symbolic link '/etc/nginx/sites-enabled/default': File exists
+ln: failed to create symbolic link '/etc/nginx/sites-enabled/default': File exists
