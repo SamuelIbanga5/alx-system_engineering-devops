@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 # Running Apache image and returning page containing content Hello Holberton.
+<<<<<<< HEAD
 
 sudo docker run -p 8080:80 -d -it httpd
 container_id=$(sudo docker ps -q)
@@ -7,3 +8,7 @@ sudo docker exec -ti "$container_id" /bin/bash -c "
 sed 's/It works!/Hello Holberton/' htdocs/index.html
 exit
 "
+=======
+echo "ServerName localhost" >> /etc/apache2.conf
+service apache2 start
+>>>>>>> a783480017c36948f9b29564371be88ff7f70eba
