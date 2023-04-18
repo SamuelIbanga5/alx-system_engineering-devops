@@ -1,5 +1,3 @@
 #!/usr/bin/env bash
 # Script that generates a MySQL dump and creates a compressed archive out of it.
-mysql_config_editor set --login-path=local --host=localhost --user=root --password
-mysqldump --login-path=local tyrell_corp > backup.sql | gzip > `date +\%d-\%m-\%y`.tar.gz
-
+mysqldump --all-databases -u root --password="$1" > backup.sql | gzip > `date +\%d-\%m-\%y`.tar.gz
